@@ -6,7 +6,7 @@ package world;
 
 /**
  *
- * @author 010528
+ * @author Guus Grievink
  */
 public class World {
 
@@ -14,8 +14,11 @@ public class World {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        
-        System.out.println("test");
+        /* Hallo iedereen, bij deze ons gezamelijk project. Graag alle code
+         * verder bouwen op deze versie. Dit doe je door de hele tijd de Master 
+         * code te pullen en als je klaar bent deze in je eigen branche te pushen.
+                
+        */
+        System.out.println("Hello World");
     }
 }
